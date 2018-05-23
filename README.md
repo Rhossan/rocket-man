@@ -1,4 +1,4 @@
-## Sample JS Project Proposal: Conway's Game of Life with Variations
+## Sample JS Project Proposal: Rocket-Man
 
 ### Background
 
