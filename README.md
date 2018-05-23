@@ -4,7 +4,6 @@
 
 rocket man is a platform jumper with a twist - you jump by pressing space, activate rocket by multi-pressing space(there's a fuel tank). The game is scrolling up, and the platform begin to break. Collecting fuel will replenish tank
 
-https://imgur.com/a/2KJSxnc
   
 
 ### Functionality & MVP  
@@ -29,6 +28,8 @@ In addition, this project will include:
 
 This app will consist of a single screen with game board, game controls, and nav links to the Github, my LinkedIn,
 and the About modal.  Game controls will include Start, Stop, and Reset buttons as well as options to select difficulty.
+
+![wireframes](https://imgur.com/a/2KJSxnc.png)
 
 
 ### Architecture and Technologies
