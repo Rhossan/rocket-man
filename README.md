@@ -29,7 +29,8 @@ In addition, this project will include:
 This app will consist of a single screen with game board, game controls, and nav links to the Github, my LinkedIn,
 and the About modal.  Game controls will include Start, Stop, and Reset buttons as well as options to select difficulty.
 
-![wireframes](https://imgur.com/a/2KJSxnc.png)
+![wireframes](https://i.imgur.com/732pre1.png)
+
 
 
 ### Architecture and Technologies
