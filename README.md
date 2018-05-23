@@ -30,7 +30,6 @@ In addition, this project will include:
 This app will consist of a single screen with game board, game controls, and nav links to the Github, my LinkedIn,
 and the About modal.  Game controls will include Start, Stop, and Reset buttons as well as options to select difficulty.
 
-![wireframes](https://github.com/appacademy/ny-portfolio-curriculum/blob/master/javascript-project/js-proposal-wireframe.jpg)
 
 ### Architecture and Technologies
 
