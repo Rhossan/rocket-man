@@ -4,7 +4,7 @@
 
 rocket man is a platform jumper with a twist - you jump by pressing space, activate rocket by multi-pressing space(there's a fuel tank). The game is scrolling up, and the platform begin to break. Collecting fuel will replenish tank
 
-
+https://imgur.com/a/2KJSxnc
   
 
 ### Functionality & MVP  
